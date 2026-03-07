@@ -64,14 +64,4 @@
 
 ---
 
-### 📊 Estatísticas
-
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardoso3res&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoso3res&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.ssantos38@gmail.com)
