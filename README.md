@@ -25,11 +25,11 @@
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LeonardoSo3res?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LeonardoSo3res?color=236ad3&logoColor=white&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.felipe.santos@hotmail.com)
 ---
 
 ### Tecnologias em Aprendizado
