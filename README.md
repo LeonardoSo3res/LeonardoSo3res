@@ -41,7 +41,7 @@
     title = "HTML"
     width = "30px"
     style = "padding-right: 10px;"
-    src="https://devicon-website.vercel.app/api/html5/original.svg " > 
+    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" > 
 
 <img 
     align = "left"
