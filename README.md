@@ -21,7 +21,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/LeonardoSo3res?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/tet80z?tab=followers">
+    <a href="https://github.com/LeonardoSo3res?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
