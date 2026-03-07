@@ -6,7 +6,7 @@
     title = "HTML"
     width = "30px"
     style = "padding-right: 10px;"
-    src="https://pt.wikipedia.org/wiki/Ficheiro:Atl%C3%A9tico_Mineiro_crest_1910.svg" 
+    src="Atlético_Mineiro_crest_1910.svg" 
 />
 
 **`Estudante Desenvolvimento de Sistemas`**
@@ -67,6 +67,5 @@
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardoso3res&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
-  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoso3res&layout=compact&theme=tokyonight" />
 </p>
