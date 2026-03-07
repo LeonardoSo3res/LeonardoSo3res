@@ -65,3 +65,4 @@
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.ssantos38@gmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail.l&logoColor=white)](mailto:leonardo.soaressantos@hotmail.com)
