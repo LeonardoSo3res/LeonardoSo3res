@@ -17,18 +17,18 @@
     <a href="https://github.com/LeonardoSo3res?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            title="Total de estrelas GitHub"       
             src="https://custom-icon-badges.demolab.com/github/stars/LeonardoSo3res?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/LeonardoSo3res?tab=followers">
+    <a href="https://github.com/tet80z?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/LeonardoSo3res?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p>>
 
 ---
 
