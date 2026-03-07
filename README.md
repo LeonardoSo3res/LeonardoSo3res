@@ -28,7 +28,7 @@
             src="https://custom-icon-badges.demolab.com/github/followers/LeonardoSo3res?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>>
+</p>
 
 ---
 
