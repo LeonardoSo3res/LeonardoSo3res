@@ -49,7 +49,7 @@
     title = "CSS"
     width = "30px"
     style = "padding-right: 10px;"
-    src="https://techicons.dev/icons/css3" >
+    src=" https://devicon-website.vercel.app/api/css3/original.svg " >
 
 <img 
     align = "left"
