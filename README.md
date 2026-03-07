@@ -49,7 +49,7 @@
     title = "CSS"
     width = "30px"
     style = "padding-right: 10px;"
-    src=" https://devicon-website.vercel.app/api/css3/original.svg " >
+    src="https://devicon-website.vercel.app/api/css3/original.svg" >
 
 <img 
     align = "left"
