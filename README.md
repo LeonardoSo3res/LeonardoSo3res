@@ -6,7 +6,7 @@
     title = "HTML"
     width = "30px"
     style = "padding-right: 10px;"
-    src="[Atlético_Mineiro_crest_1910.svg](https://upload.wikimedia.org/wikipedia/commons/c/cf/Atl%C3%A9tico_Mineiro_crest_1910.svg)" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Atl%C3%A9tico_Mineiro_crest_1910.svg" 
 />
 
 **`Estudante Desenvolvimento de Sistemas`**
