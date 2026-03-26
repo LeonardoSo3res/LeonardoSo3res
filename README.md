@@ -24,7 +24,8 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub"       
-            src="https://custom-icon-badges.demolab.com/github/stars/LeonardoSo3res?color=ffffff&style=flat&labelColor=0d47a1&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/LeonardoSo3res?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+
         />
     </a>
     <a href="https://github.com/LeonardoSo3res?tab=followers">
