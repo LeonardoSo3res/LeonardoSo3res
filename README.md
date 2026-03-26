@@ -18,25 +18,7 @@
 - 📚 Atualmente aprendendo HTML, CSS e JavaScript
 
 
-<p align="left">
-    <a href="https://www.youtube.com/@LeonardoSoares."></a>      
-    <a href="https://github.com/LeonardoSo3res?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub"       
-            src="https://custom-icon-badges.demolab.com/github/stars/LeonardoSo3res?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-
-        />
-    </a>
-    <a href="https://github.com/LeonardoSo3res?tab=followers">
-        <img 
-    alt="Seguidores" 
-    title="Me siga no GitHub" 
-    src="https://img.shields.io/github/followers/LeonardoSo3res?style=for-the-badge&color=236ad3&labelColor=1155ba"
-/>
-    </a>
-</p>
-
+<p align="left"> <a href="https://www.youtube.com/@LeonardoSoares."></a> <a href="https://github.com/LeonardoSo3res?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LeonardoSo3res?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/LeonardoSo3res?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://img.shields.io/github/followers/LeonardoSo3res?style=for-the-badge&color=236ad3&labelColor=1155ba" /> </a> </p>
 ---
 </p>
 
