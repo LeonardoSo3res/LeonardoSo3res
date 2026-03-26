@@ -15,7 +15,6 @@
 
 - 🎓 Estudante de Desenvolvimento de Sistemas
 - 💡 Interessado em Front-end e tecnologia
-- 🚀 Em busca da primeira oportunidade como desenvolvedor
 - 📚 Atualmente aprendendo HTML, CSS e JavaScript
 
 
@@ -25,7 +24,7 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub"       
-            src="https://custom-icon-badges.demolab.com/github/stars/LeonardoSo3res?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LeonardoSo3res?color=ffffff&style=flat&labelColor=0d47a1&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/LeonardoSo3res?tab=followers">
