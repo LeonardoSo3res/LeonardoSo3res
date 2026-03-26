@@ -23,10 +23,10 @@
     </a>
     <a href="https://github.com/LeonardoSo3res?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LeonardoSo3res?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    alt="Seguidores" 
+    title="Me siga no GitHub" 
+    src="https://img.shields.io/github/followers/LeonardoSo3res?style=for-the-badge&color=236ad3&labelColor=1155ba"
+/>
     </a>
 </p>
 
