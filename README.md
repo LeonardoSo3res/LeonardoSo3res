@@ -1,5 +1,7 @@
 #🐓 Leonardo Soares
 
+<img src="https://komarev.com/ghpvc/?username=LeonardoSo3res&color=blue"/>
+
 <img 
     align = "left"
     alt = "HTML"
@@ -9,7 +11,12 @@
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Atl%C3%A9tico_Mineiro_crest_1910.svg" 
 />
 
-**`Estudante Desenvolvimento de Sistemas`**
+**`👨‍💻 Sobre mim`**
+
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💡 Interessado em Front-end e tecnologia
+- 🚀 Em busca da primeira oportunidade como desenvolvedor
+- 📚 Atualmente aprendendo HTML, CSS e JavaScript
 
 
 <p align="left">
@@ -75,4 +82,6 @@
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.ssantos38@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-soares-dos-santos?)
 
